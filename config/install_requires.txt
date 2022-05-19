@@ -1,4 +1,1 @@
-xs-lib
-tqdm
-fire
-sure
+tensorflow-serving-api==2.4.0
