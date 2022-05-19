@@ -1,1 +1,1 @@
-tfserving-grpc-helper
+tfserving_grpc_helper
